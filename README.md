@@ -1,16 +1,60 @@
-## Hi there 👋
+Hi 👋 My name is RISHEKESAN N
+=============================
 
-<!--
-**rishi035/rishi035** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist
+--------------
 
-Here are some ideas to get you started:
+I have strong knowledge in Python programming, data analysis, Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning. Driven by a passion for solving complex problems and extracting valuable insights from data, I am committed to leveraging technology to foster innovation and deliver impactful solutions. After taking a two-year career break to focus on personal goals and skill development, I have enhanced my technical capabilities and deepened my expertise in AI and ML. This journey has been fueled by hands-on projects, continuous learning, and a dedication to staying at the forefront of technological advancements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in INDIA
+*   🖥️  See my portfolio at [Kaggle](http://www.kaggle.com/rishiiiiii0099)
+*   ✉️  You can contact me at [itsrishekesan@gmail.com](mailto:itsrishekesan@gmail.com)
+*   🧠  I'm learning Tensorflow
+*   🤝  I'm open to collaborating on Data Science Projects
+
+### Skills 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+
+### Socials
+<p align="left"> <a href="https://www.github.com/rishi035" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rishekesan/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/rishi035"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi035&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/rishi035" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi035&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
