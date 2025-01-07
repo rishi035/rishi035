@@ -4,7 +4,8 @@ Hi 👋 My name is RISHEKESAN N
 Data Scientist
 --------------
 
-I have strong knowledge in Python programming, data analysis, Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning. Driven by a passion for solving complex problems and extracting valuable insights from data, I am committed to leveraging technology to foster innovation and deliver impactful solutions. After taking a two-year career break to focus on personal goals and skill development, I have enhanced my technical capabilities and deepened my expertise in AI and ML. This journey has been fueled by hands-on projects, continuous learning, and a dedication to staying at the forefront of technological advancements.
+I am a motivated learner with a strong foundation in Python programming, Data Analysis, Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning. I am eager to apply my skills to real-world challenges and contribute to innovative projects.
+Committed to continuous learning and hands-on practice, I strive to deepen my expertise and stay ahead in the dynamic field of technology. I enjoy solving complex problems, uncovering meaningful insights from data, and building predictive models.
 
 *   🌍  I'm based in INDIA
 *   🖥️  See my portfolio at [Kaggle](http://www.kaggle.com/rishiiiiii0099)
