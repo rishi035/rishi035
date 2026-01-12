@@ -1,7 +1,7 @@
 Hi 👋 My name is RISHEKESAN N
 =============================
 
-Data Scientist
+AI / ML Engineer
 --------------
 
 I am a motivated learner with a strong foundation in Python programming, Data Analysis, Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning. I am eager to apply my skills to real-world challenges and contribute to innovative projects.
